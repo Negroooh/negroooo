@@ -1,4 +1,4 @@
-bruno=carrito
+bruno=landing
 bruno=usuario
 benjamin=producto
-benjamin=landing 
+benjamin=carrito
